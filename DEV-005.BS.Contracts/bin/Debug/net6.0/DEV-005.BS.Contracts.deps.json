@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DEV-005.BS.Contracts/1.0.0": {
+        "runtime": {
+          "DEV-005.BS.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEV-005.BS.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

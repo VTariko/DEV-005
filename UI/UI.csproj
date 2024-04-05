@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DEV-005.BS.Contracts\DEV-005.BS.Contracts.csproj" />
+    <ProjectReference Include="..\DEV-005.CompositionRoot\DEV-005.CompositionRoot.csproj" />
+  </ItemGroup>
+
+</Project>

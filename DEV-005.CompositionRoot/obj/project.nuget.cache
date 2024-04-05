@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0Rk3AcBpjc11cVEdevDGMnjs/MlcjbJuFyHVxaR/BVtP1TbaTBhsQCd2SHQDjjUnVoTkGlTtutGez9TEWPBlQ==",
+  "success": true,
+  "projectFilePath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\DEV-005.CompositionRoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

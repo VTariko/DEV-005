@@ -1,0 +1,15 @@
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\bin\Debug\net6.0\DEV-005.DAL.Fake.deps.json
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\bin\Debug\net6.0\DEV-005.DAL.Fake.dll
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\bin\Debug\net6.0\DEV-005.DAL.Fake.pdb
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\bin\Debug\net6.0\DEV-005.DAL.Contracts.dll
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\bin\Debug\net6.0\DEV-005.DAL.Contracts.pdb
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.csproj.AssemblyReference.cache
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.GeneratedMSBuildEditorConfig.editorconfig
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.AssemblyInfoInputs.cache
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.AssemblyInfo.cs
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.csproj.CoreCompileInputs.cache
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.csproj.CopyComplete
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.dll
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\refint\DEV-005.DAL.Fake.dll
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\DEV-005.DAL.Fake.pdb
+C:\VTariko\Code\DEV-005\DEV-005.DAL.Fake\obj\Debug\net6.0\ref\DEV-005.DAL.Fake.dll

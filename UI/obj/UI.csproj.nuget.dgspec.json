@@ -1,0 +1,460 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VTariko\\Code\\DEV-005\\UI\\UI.csproj": {}
+  },
+  "projects": {
+    "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj",
+        "projectName": "DEV-005.BS.Contracts",
+        "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj",
+        "packagesPath": "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\",
+        "outputPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vyacheslav.tariko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS\\DEV-005.BS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS\\DEV-005.BS.csproj",
+        "projectName": "DEV-005.BS",
+        "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS\\DEV-005.BS.csproj",
+        "packagesPath": "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\",
+        "outputPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vyacheslav.tariko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj"
+              },
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\DEV-005.CompositionRoot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\DEV-005.CompositionRoot.csproj",
+        "projectName": "DEV-005.CompositionRoot",
+        "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\DEV-005.CompositionRoot.csproj",
+        "packagesPath": "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\",
+        "outputPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vyacheslav.tariko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj"
+              },
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS\\DEV-005.BS.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS\\DEV-005.BS.csproj"
+              },
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj"
+              },
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Fake\\DEV-005.DAL.Fake.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Fake\\DEV-005.DAL.Fake.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj",
+        "projectName": "DEV-005.DAL.Contracts",
+        "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj",
+        "packagesPath": "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\",
+        "outputPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vyacheslav.tariko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Fake\\DEV-005.DAL.Fake.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Fake\\DEV-005.DAL.Fake.csproj",
+        "projectName": "DEV-005.DAL.Fake",
+        "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Fake\\DEV-005.DAL.Fake.csproj",
+        "packagesPath": "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\",
+        "outputPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Fake\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vyacheslav.tariko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VTariko\\Code\\DEV-005\\UI\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VTariko\\Code\\DEV-005\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\VTariko\\Code\\DEV-005\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\",
+        "outputPath": "C:\\VTariko\\Code\\DEV-005\\UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vyacheslav.tariko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.BS.Contracts\\DEV-005.BS.Contracts.csproj"
+              },
+              "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\DEV-005.CompositionRoot.csproj": {
+                "projectPath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.CompositionRoot\\DEV-005.CompositionRoot.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

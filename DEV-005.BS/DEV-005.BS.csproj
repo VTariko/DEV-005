@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>DEV_005.BS</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DEV-005.BS.Contracts\DEV-005.BS.Contracts.csproj" />
+      <ProjectReference Include="..\DEV-005.DAL.Contracts\DEV-005.DAL.Contracts.csproj" />
+    </ItemGroup>
+
+</Project>

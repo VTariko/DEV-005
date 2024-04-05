@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>DEV_005.CompositionRoot</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DEV-005.BS.Contracts\DEV-005.BS.Contracts.csproj" />
+      <ProjectReference Include="..\DEV-005.BS\DEV-005.BS.csproj" />
+      <ProjectReference Include="..\DEV-005.DAL.Contracts\DEV-005.DAL.Contracts.csproj" />
+      <ProjectReference Include="..\DEV-005.DAL.Fake\DEV-005.DAL.Fake.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
+    </ItemGroup>
+
+</Project>

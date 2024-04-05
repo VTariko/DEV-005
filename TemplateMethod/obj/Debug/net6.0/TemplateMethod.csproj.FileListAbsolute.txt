@@ -1,0 +1,14 @@
+C:\VTariko\Code\DEV-005\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\VTariko\Code\DEV-005\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\VTariko\Code\DEV-005\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\VTariko\Code\DEV-005\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\VTariko\Code\DEV-005\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\refint\TemplateMethod.dll
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+C:\VTariko\Code\DEV-005\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll

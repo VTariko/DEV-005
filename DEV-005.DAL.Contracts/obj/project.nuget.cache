@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SPibgmFFOJNx1Pja5p1JDyCrzhzjg1AsjAaZ0djw9auE5PmXGCuUp2cu4wH2pv7KBGXqj6R7MvgAVpkn1a/qA==",
+  "success": true,
+  "projectFilePath": "C:\\VTariko\\Code\\DEV-005\\DEV-005.DAL.Contracts\\DEV-005.DAL.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

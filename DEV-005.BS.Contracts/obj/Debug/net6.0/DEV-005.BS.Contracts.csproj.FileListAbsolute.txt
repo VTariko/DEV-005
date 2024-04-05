@@ -1,0 +1,11 @@
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\bin\Debug\net6.0\DEV-005.BS.Contracts.deps.json
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\bin\Debug\net6.0\DEV-005.BS.Contracts.dll
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\bin\Debug\net6.0\DEV-005.BS.Contracts.pdb
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\DEV-005.BS.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\DEV-005.BS.Contracts.AssemblyInfoInputs.cache
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\DEV-005.BS.Contracts.AssemblyInfo.cs
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\DEV-005.BS.Contracts.csproj.CoreCompileInputs.cache
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\DEV-005.BS.Contracts.dll
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\refint\DEV-005.BS.Contracts.dll
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\DEV-005.BS.Contracts.pdb
+C:\VTariko\Code\DEV-005\DEV-005.BS.Contracts\obj\Debug\net6.0\ref\DEV-005.BS.Contracts.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YC/yxsYLde5+4TEVS+8hgaXIKizpISWhBGJMFB9kkJLQFXf32kXLJ8Zqj+dB3NO9oyXbfVCKc4g2tM0gl7v3bg==",
+  "success": true,
+  "projectFilePath": "C:\\VTariko\\Code\\DEV-005\\TemplateMethod\\TemplateMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vyacheslav.tariko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
